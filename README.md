@@ -216,8 +216,7 @@ SmartImageSearch-CBIR/
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/SmartImageSearch-CBIR.git
-cd SmartImageSearch-CBIR
+git clone https://github.com/Vincenzo2603/multimedia-data-management-smartimagesearch.git
 ```
 
 Install dependencies:
