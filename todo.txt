@@ -1,1 +1,4 @@
 popolare la repo
+    caricare docs, presentazioni, report e risultati
+inserire slide repo
+correggere rendering notebook
