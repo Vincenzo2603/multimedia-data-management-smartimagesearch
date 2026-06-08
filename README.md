@@ -185,7 +185,6 @@ SmartImageSearch-CBIR/
 │   └── SmartImageSearch.ipynb
 │
 ├── presentation/
-│   ├── SmartImageSearch_ABCDEF.pptx
 │   └── SmartImageSearch_ABCDEF.pdf
 │
 ├── report/
@@ -193,14 +192,11 @@ SmartImageSearch-CBIR/
 │
 ├── results/
 │   ├── classical_retrieval.png
+│   ├── evaluation_metrics.txt
+│   ├── performance_comparison.png
 │   ├── modern_retrieval.png
-│   ├── text_retrieval.png
-│   └── performance_comparison.png
-│
-├── docs/
-│   ├── architecture.png
-│   ├── workflow.png
-│   └── diagrams/
+│   ├── query_image.png
+│   └── retrieval_comparison.png
 │
 ├── requirements.txt
 │
